@@ -1,0 +1,44 @@
+.contc {
+  line-height: 5px;
+  font-size: px;
+  padding-left: 10px;
+}
+
+.amongus {
+  padding-left: 20px;
+  line-height: 15px;
+  font-size: 24px;
+}
+
+.hotdog {
+  color: ;
+  position: relative;
+  top: 20px;
+}
+
+h1 {
+  padding-left: 20px;
+  line-height: 15px;
+  position: relative;
+  top: 25px;
+}
+
+body {
+  background-color: lightyellow;
+  border: 6px solid purple;
+  width: 320px;
+  position: relative;
+  left: 800px;
+}
+
+.argentina {
+  line-height: 10px;
+  position: relative;
+  top: 10px;
+  left: 30px;
+}
+
+h4 {
+  position: relative;
+  left: 5px;
+}
